@@ -1,0 +1,233 @@
+    #heading {
+        font-size: 40px;
+        font-family: cursive;
+        font-weight: bolder;
+        margin-right: 20px;
+        margin-bottom: 10px;
+    }
+    
+    #green {
+        color: greenyellow;
+    }
+    
+    #yellow {
+        color: yellow;
+    }
+    
+    #purple {
+        color: purple;
+    }
+    
+    #orange {
+        color: orange;
+    }
+    
+    #pink {
+        color: pink;
+    }
+    
+    #blue {
+        color: blue;
+    }
+    
+    #navbarSupportedContent {
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: bolder;
+    }
+    
+    .nav-link {
+        padding-left: 5px;
+    }
+    
+    .jumbotron {
+        background-color: darkgray;
+        transition: 1s ease-in-out;
+        text-align: center;
+        margin-top: 100px;
+    }
+    
+    .jumbotron:hover {
+        background-color: rgb(41, 58, 58);
+    }
+    
+    #head1 {
+        font-size: 60px;
+        font-family: sans-serif;
+        color: rgb(3, 100, 100);
+    }
+    
+    #para1 {
+        font-size: 20px;
+    }
+    
+    #head2 {
+        font-size: 40px;
+        color: blue;
+    }
+    
+    #height {
+        text-align: center;
+    }
+    
+    #width {
+        text-align: center;
+    }
+    
+    .para2 {
+        font-size: 17px;
+        font-family: sans-serif;
+    }
+    
+    #works {
+        height: fit-content;
+        background-color: rgb(92, 112, 112);
+    }
+    
+    #ourwork {
+        text-align: center;
+        padding: 15px;
+    }
+    
+    .row {
+        padding: 15px;
+    }
+    
+    .col {
+        padding: 15px;
+    }
+    
+    .card {
+        width: 400px;
+        height: 278px;
+        overflow: hidden;
+        margin: 0 auto 15px auto;
+        padding: 15px;
+        background-color: bisque;
+        border-radius: 15px;
+        text-align: center;
+        transition: 0.5s;
+    }
+    
+    .card:hover {
+        height: 480px;
+        background-color: aquamarine;
+    }
+    
+    #card1 {
+        width: 400px;
+        height: 357px;
+        overflow: hidden;
+        padding: 15px;
+        background-color: bisque;
+        border-radius: 15px;
+        text-align: center;
+        transition: 0.5s;
+    }
+    
+    #card1:hover {
+        height: 565px;
+        background-color: aquamarine;
+    }
+    
+    h3 {
+        font-family: sans-serif;
+    }
+    
+    #learn-more {
+        float: left;
+        margin-top: 0;
+        cursor: pointer;
+    }
+    
+    #learn-more2 {
+        float: left;
+        margin-top: 0;
+        cursor: pointer;
+    }
+    
+    #learn-more3 {
+        float: left;
+        margin-top: 0;
+        cursor: pointer;
+    }
+    
+    .card-text {
+        text-align: left;
+    }
+    
+    .card-img-top {
+        cursor: pointer;
+    }
+    
+    .card-img-top:hover {
+        opacity: 0.5;
+    }
+    
+    .para4 {
+        display: none;
+    }
+    
+    .d {
+        height: fit-content;
+    }
+    
+    .d:hover {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    
+    .e {
+        position: absolute;
+        top: 120px;
+        left: 120px;
+    }
+    
+    #d {
+        background-color: rgb(247, 209, 196);
+        width: 100%;
+        height: fit-content;
+    }
+    
+    #column {
+        padding: 20px;
+    }
+    
+    label {
+        color: black;
+        text-decoration: none;
+        margin: 0;
+    }
+    
+    .form-group input {
+        margin-bottom: 20px;
+        background: transparent;
+        border: none;
+        outline: none;
+        font-size: 15px;
+        padding: 10px 0;
+        color: black;
+        border-bottom: 1px solid black;
+        font-family: sans-serif;
+    }
+    
+    .form-group input::placeholder {
+        color: black;
+        opacity: 0.5;
+    }
+    
+    .form-group textarea {
+        margin-bottom: 20px;
+        background: transparent;
+        border: none;
+        outline: none;
+        font-size: 15px;
+        padding: 10px 0;
+        color: black;
+        border-bottom: 1px solid black;
+        font-family: sans-serif;
+    }
+    
+    #abhi {
+        margin-top: -15px;
+    }
